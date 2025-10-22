@@ -6,24 +6,36 @@ about:
   image: img/headshot.jpg
 ---
 
-::: {#me}
+:::: {#me}
 ## Goals
 
-I wish to have a career in marine conservation.
+I hope to finish my master's degree in the spring of 2027. Then I wish to have a career in marine conservation in the New Hampshire Seacoast area.
 
 ## Education
 
-I have a B.S. from Roger Williams University in both marine biology and applied mathematics. I am currently working on a master's degree in marine biology at UNH.
+I have a B.S. from Roger Williams University in both marine biology and applied mathematics. I am currently working on a master's degree in marine biology at the University of New Hampshire.
 
 ## Experience
 
-*October 2023 – August 2025* **Research Assistant II** at Woods Hole Oceanographic Institution, Wood Hole, MA
+*Woods Hole Oceanographic Institution, Wood Hole, MA October 2023 – August 2025*
+
+<div>
+
+**Research Assistant II**
+
+</div>
 
 -    Developing coral nutrient delivery substrates to increase coral resilience and survivorship
 
 -   Trace metal analysis of water and coral tissue samples
 
 -   In charge of daily husbandry and aquatic system maintenance for a variety of tropical corals
-:::
+
+*Marine Biological Laboratory,Woods Hole, MA January 2023 - October 2023*
+
+**Research Assistant**
+
+-   Primary person for daily husbandry and aquatic system trouble-shooting for *Ambystoma mexicanum* (axolotl), and assisted with lab techniques for ongoing axolotl regeneration projects
+::::
 
 Thanks for checking out my web site!
