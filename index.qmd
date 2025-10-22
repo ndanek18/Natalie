@@ -6,19 +6,19 @@ about:
   image: img/headshot.jpg
 ---
 
-:::{#me}
+::: {#me}
 
 ## Goals
 
-#I wish to have a career in marine conservation.
+I wish to have a career in marine conservation.
 
 ## Education
 
-#I have a B.S. from Roger Williams University in both marine biology and applied mathematics. I am currently working on a master's degree in marine biology at UNH.
+I have a B.S. from Roger Williams University in both marine biology and applied mathematics. I am currently working on a master's degree in marine biology at UNH.
 
 ## Experience
 
-#This is my work experience.
+This is my work experience.
 
 :::
 
