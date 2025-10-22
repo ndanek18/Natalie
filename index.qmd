@@ -7,7 +7,6 @@ about:
 ---
 
 ::: {#me}
-
 ## Goals
 
 I wish to have a career in marine conservation.
@@ -18,8 +17,13 @@ I have a B.S. from Roger Williams University in both marine biology and applied 
 
 ## Experience
 
-This is my work experience.
+*October 2023 – August 2025* **Research Assistant II** at Woods Hole Oceanographic Institution, Wood Hole, MA
 
+-    Developing coral nutrient delivery substrates to increase coral resilience and survivorship
+
+-   Trace metal analysis of water and coral tissue samples
+
+-   In charge of daily husbandry and aquatic system maintenance for a variety of tropical corals
 :::
 
 Thanks for checking out my web site!
