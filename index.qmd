@@ -20,7 +20,8 @@ area.
 
 I have a B.S. from Roger Williams University in both marine biology and
 applied mathematics. I am currently working on a master's degree in
-marine biology at the University of New Hampshire.
+marine biology at the University of New Hampshire in Dr. Liz Harvey's
+lab.
 
 ## Experience
 
@@ -81,4 +82,4 @@ Groton, CT** *June 2018 – August 2018*
     skiffs and 50ft and 65ft research vessels
 :::
 
-Thanks for checking out my web site!
+Thanks for checking out my website!
